@@ -1,1 +1,3 @@
-# Covid-19-Pakistan-Project
+# This project consist of visualization of Covid-19 dataset. This dataset is taken from kaggle from the link given below. https://www.kaggle.com/mesumraza/corona-virus-pakistan-dataset-2020 . Covid-19 commonly known as corona-virus originated from Wuhan, China has become a Global Pandemic which has affected 213 countries and territories. Pakistan is one of the countries affected by this virus. First case in pakistan was confirmed on 26 February 2020 in Karachi. By 18 March cases has been registered all across Pakistan. Tableau public 2020.2 software is used to visualize provided data-set. These visuals help in examining growth of covid-19 in pakistan.
+Blog Post:
+Visulization:
